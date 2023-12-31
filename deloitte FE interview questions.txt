@@ -1,0 +1,124 @@
+deloitte FE interview questions
+
+1. what is lexical scope and what is scope chain
+2. what is closure and have you implemented closures, give example
+3. polyfill and write a polyfill of map function
+4. polyfill for bind method
+5. what are throttling functions, what is throttling
+6. how to check performance of website or how to improve performance(Light house tab has all information)
+7. Any idea on Performance Api
+
+
+__________________________________
+
+Questions from glassdoor (main)
+Technical Round (5 Questions)
+Q1. Tell me about yourself in terms of journey with your technical skills
+Add Answer
+
+Q2. What do you know about Angular and what features have you used in your project?
+Add Answer
+
+Q3. What features of HTML have you used?
+Add Answer
+
+Q4. What is flex in CSS?
+Add Answer
+
+Q5. What are various things available in flex? What is hoisting? What are function expressions?
+Add Answer
+
+Interview Questions
+ES6 features & latest ones
+Promise
+How angular works basically?
+Callback
+Pipes -types & how to install it from cmd
+How to call api?
+what is main.ts file?
+Component & directive difference
+what is Arrow Functions?
+Difference between = = & = = =
+
+Function Prototype
+Function binding
+Type of
+Object Prototype
+Array prototype
+
+What is Doctype, semantic elements, user strict in js, Pseudo-classes, Promise, grid vs flex,
+2-3 and programing questions- what is the output of the program.
+
+Interview
+The interview lasted for an hour. Questions on HTML, CSS and JS. Was asked to explain the different tags that one can use to make the interface much better. Overall, it was challenging
+
+Interview Questions
+Different tags used to develop a web page
+
+Screening round - Namesake round to know technology stack and projects worked before
+Technical round 1 - basic ES6 promises(syntax,uses),async/await,call/apply/bind,diff. display and visibility, position css , some outputs questions.
+
+
+1st, Purely ES6 Qs were asked. (Depth knowledge of JS is needed here). Little bit of HTML,CSS, Bootstrao, ANgular 8 was asked here.
+2nd, Managerial and Angular/ES6,
+3rd , Managerial
+4th HR.
+
+Interview Questions
+Currying, Closure, let, var, IIFE, Promises.
+
+Asked Basic questions like CSS selector, Callback, Promise, box model in css, semantic elements, user strict in js, What is Doctype, Async/Await, CSS Specificity.
+
+Basic CSS and JS Questions:
+
+CSS:
+How do you center the div center horizontally and vertically.
+Css box model, Display and Position property.
+Css Specificity and how to calculate.
+
+Javascript:
+what is the difference bet. normal function and Arrow function
+array.map method.
+diff. let, var, const.
+how to create object in JS.
+object.seal and freeze method
+Event Propagation in js.
+IIFE
+what is prototype and how to achieve inheritance in JS.
+array methods[sort, slice, splice, reverse, split, join]
+
+Interview Questions
+What happens when you type a URL in browser?
+1 Answer
+How can we create routing without any framework with pure Javascript
+1 Answer
+How can we vertically align a 400 px div in CSS?
+1 Answer
+Do you have any experience with deployment of website or application on a server?
+1 Answer
+
+Tell me about React Life Cycle Methods.
+
+_______________________________________________________________________________________________________
+
+Q1. Basics of HTML, CSS and its pre-processor. Html 5 new tags, About Doctype, Flex property, Box modal.
+View Answers (1)
+
+Q2. Javascript:- Clouser, Prototype, Constructor, Hoisting, Call, bind, apply.
+Add Answer
+
+Q3. Some javascript questions like- Write a program for string reverse, string palindrome, and questions on hoisting and set timeout.
+Add Answer
+
+
+______________________________
+
+
+Q2. Basics of HTML, CSS and its pre-processor. Html 5 new tags, About Doctype, Flex property, Box modal. 
+
+View answer (1)
+Q3. Some javascript questions like- Write a program for string reverse, string palindrome, and questions on hoisting and set timeout. 
+
+Add Answer
+Q4. Javascript:- Clouser, Prototype, Constructor, Hoisting, Call, bind, apply. 
+

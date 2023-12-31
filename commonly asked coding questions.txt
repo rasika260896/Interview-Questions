@@ -1,0 +1,90 @@
+commonly asked coding questions:
+
+1. Reverse a string without using reverse method
+function reverse(str){
+    let arr = "";
+    for(var i=str.length-1;i>=0;i--){
+        arr+=str[i];
+}
+    console.log(arr);
+}
+reverse("Hello");
+
+___________________________________________________________
+2.Closure example
+
+function outer(a,b){
+    return function inner(){
+        const c=10;
+        const res= a+b+c;
+        console.log(res)
+    }
+}
+ const sum= outer(2,3);
+ sum();
+______________________________________________________
+3. Currying example
+function outer(a,b){
+    return function inner(c){
+        //const c=10;
+        const res= a+b+c;
+        console.log(res)
+    }
+}
+ const sum= outer(2,3)(10);
+_______________________________________________________
+4. code for palindrome
+function Palindrome(str){
+    
+ const reversedStr = str.split('').reverse().join('');
+ if(str ===   reversedStr){
+     console.log("its a palindrome")
+ }
+    else{
+        console.log("not a palindrome")
+    }
+}
+Palindrome("madam");
+
+________________________________________________________
+
+5. Anagrams
+function anagram(str1,str2){
+    if(str1.length === str2.length){
+        const string1 = str1.split('').sort().join('');
+        const string2 = str2.split('').sort().join('');
+        if(string1===string2){
+            console.log("Both are anagrams");
+        }
+        else{
+            console.log("they are not anagrams")
+        }
+    }
+    else{
+        console.log("strings does not match their length")
+    }
+    
+}
+anagram("LISTEN","SIEENT")
+____________________________________
+6. Factorial
+
+function factorial(n){
+    let res=1;
+    for (i=2;i<=n;i++){
+        res=res*i;
+       
+    }
+     return res
+}
+factorial(5)
+
+_____________________________________________
+7. callback function
+
+function CallbackFn(add){
+    return add(5,3);
+}
+CallbackFn(sum);
+function sum(a,b){
+    return a+b;}
