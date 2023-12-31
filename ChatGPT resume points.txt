@@ -1,0 +1,42 @@
+Proficient in implementing new features using functional components, React Hooks, Redux, and React Formik Library in React.js.
+Demonstrated ability to deliver high-quality, scalable, reusable, and maintainable code.
+Consistently ensures proper documentation, communication, and code reviews throughout the development process.
+Experienced in writing adequate unit tests with React Testing Library to maintain optimal quality standards.
+Skilled in performing sanity testing at every stage to ensure the quality of the code.
+            OR
+
+Experienced React.js developer with expertise in implementing new features using functional components, React Hooks, Redux, and React Formik Library.
+Demonstrated ability to deliver high-quality, scalable, reusable, and maintainable code with a focus on proper documentation, communication, and code reviews throughout the development process.
+Proficient in writing adequate unit tests with React Testing Library to maintain optimal quality standards and performing sanity testing at every stage to ensure code quality.
+_____________________________________________________________________
+
+
+Front-End Developer for SAP Co-dev IAM project with expertise in HTML, XML, CSS, JavaScript, UI5, and React.
+Developed critical features, provided demos, and resolved bugs and issues for the product.
+Collaborated with the team by analyzing user stories, participating in Sprint Planning, Retrospection, and Daily Scrum Meetings.
+Ensured high-quality applications by writing test cases, deploying them, and reviewing code.
+              OR
+
+• Expertise in Front-End development using HTML, XML, CSS, JavaScript, UI5, and React for SAP Co-dev IAM project.
+• Developed critical features, resolved bugs, and provided demos for the product.
+• Collaborated with the team by analyzing user stories and participating in Sprint Planning, Retrospection, and Daily Scrum Meetings.
+• Ensured high-quality applications by writing test cases, deploying them, and reviewing code.
+______________________________________________________________
+
+
+Front-End Developer at AstraZeneca Pharmaceuticals with expertise in analyzing Handoff received from clients consisting of Wireframes, Functional documents, Style guide, image assets, and Manuscript for requirement gathering and development.
+Proficient in developing websites using HTML5, CSS3, jQuery, Bootstrap with AEM tool as per the requirements.
+Skilled in conducting Unit-Testing and suggesting better approaches for development.
+
+
+_____________________________________
+
+
+Developed a personal project on React.js, which involved creating a website for displaying GitHub users' data fetched from an API. Implemented features using React-Routing Library, Redux-toolkit, Formik, and Hooks. Deployed the site on Netlify and Vercel.
+
+
+
+4 years of experience in the IT industry with a current position as a Front-End Developer at Accenture, Pune, India.
+Proficient in HTML5, CSS3, JavaScript, React.js, Bootstrap, and jQuery for development projects.
+Demonstrated ability to quickly learn and implement new technologies.
+Experience working in Agile and Scrum environments.
