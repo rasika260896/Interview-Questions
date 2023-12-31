@@ -1,0 +1,41 @@
+const array = "John doe";
+
+const newArray = array.split('');
+
+const repeatedElements = newArray.filter((item,index)=>{
+return newArray.indexOf !== index
+}
+
+console.log(repeatedElements);
+
+1. what is SPA and Multi page application. what is real world example
+2. what is difference between class component and functional component
+3. what are advantages and disadvantages of react
+4. what is closure
+5. what are the ways to do asynchronous operation
+6. what is difference between setTimeout and setInterval
+7. what are inline and block level elements
+8. what is difference between svg and canvas
+9. what is diff bet map, filter and reduce
+10. what is pseudo classes in Css
+11. have u used Sass
+12. what is responsive web design , how can u acheive it.
+13. what are ways to oprimise the performance in generic
+14. what are CORS
+15. what is variable and method hoisting
+16.Lifecycle hooks
+17. event bubbling and capturing
+18.debouncing and throttling
+19. dependency and dev dependency
+20. what is babel
+21. what is webpack
+22. difference between arrow function and normal function
+
+callback example:
+function add(callback){
+    return callback(2,3)
+}
+add(sum);
+function sum(a,b){
+    return a+b;
+}
