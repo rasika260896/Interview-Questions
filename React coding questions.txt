@@ -1,0 +1,83 @@
+React Interview/coding questions
+
+TCS interview questions from Youtube
+
+1. What is Virtual Dom
+2. How to pass data from parent to child and child to parent
+3. What is React and why we use React
+4. what are higher order components
+5. what is prop drilling and how we can avoid it?
+6. what do we always use key and significance of keys in react
+7. what are performance optimization technique used to optimise the performance of application
+8. what are synthetic events in React
+9. what do you understand about refs in react
+10.what is the lifecycle of react component
+11.what are component based application
+12.what challenges you faced while working for and as React js developer
+13.lets say we have the entire application and can we use single component to render everything?
+14.how to pass the data from child to parent?
+15.what are the ways of communication between componnets in React
+16. when we land to the landing page we show/see some reports immediatly, where does the API call happen? in class component
+17. In what sequence the hooks executes?
+18. what is useState and why do we realy use?
+19. what is the virtualDom in react?
+20. we have logged in to an application with the username, now the same name has to be use in other pages as well, or at some othe rplace, how this can be achieved?
+21. what react library is used for form validations in react?
+22. what are HOC?
+23. what is Redux?
+24. for state management, what are the ways to handle state?
+25. how to create services using React?
+26.
+
+
+JS interview questions 
+
+1. what is null and undefined in Javascript and difference between them
+2. what are IIFE
+3. difference between == and ===
+4. Simple way of removing duplicates from an array
+5. what is hoisting in Javascript
+6. what is destructuring in js for objects and array? how destructuring works when array and objects are updated dynamically?
+7. what are promises and how it can be used? Examples where we can use promises
+8. difference between map and forEach?
+9. If I compare null, ==, undefined, what will be the answer
+
+Html and CSS interview questions
+
+Difference between position relative and position Absolute
+Block elements in Html
+
+
+______________________________________________________________
+______________________________________________________________
+
+TCS interview questions (React JS)
+1. what are window events
+2. what is an HTML attribute for events
+3. what is DOM
+4. what are new features of ES6
+5. what are callback functions
+6. what is difference between Promises and Callback
+7. write a promise that will call an Api and print the result also concatinate the string in then method
+const promise = new Promise((resolve,reject)=>{
+const result = "Successful";
+if(result){
+resolve(result)
+}
+else{
+reject("the promise has been rejected")
+}
+}).then((result)=>console.log(result)
+8. const data = { name: "A", age: 30, marks: { sub_a: 34, sub_b: 50  } }
+in the given code make a use of spread operator and assign a new value to sub_b
+
+9.const data = { name: "A", age: 30 } 
+in the given code make a use of spread operator and assign a new value to age
+
+10.const data = "javascript"
+write a program to reverse the string without using reverse method
+
+11.<input value="30" /> how do you use a Ref method
+
+12. Pure component syntax
+

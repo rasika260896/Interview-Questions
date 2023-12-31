@@ -1,0 +1,48 @@
+const obj-{name:"Rasika"};
+obj.name="Rupali";
+console.log(obj.name);
+
+
+Rupali Naik3:05 PM
+var i;
+for(i=0;i<5;i++){
+setTimeout(()=>{
+console.log(i);
+},100);
+}
+
+
+Rupali Naik3:06 PM
+console.log(typeof typeof 1);
+console.log(typeof typeof 1);
+Rupali Naik3:09 PM
+(function() {
+  var a = b = 5;
+})();
+console.log(b);
+
+
+Rupali Naik3:13 PM
+const number = undefined + 11;
+if (number === NaN) {
+  document.write("NaN");
+} else if (number === 11) {
+  document.write("11");
+} else {
+  document.write("other");
+}
+
+
+Rupali Naik3:15 PM
+var obj=[56,78,48,92,34,4,8]; insert 32 at 3rd position  and [92,34,4,8]
+Rupali Naik3:29 PM
+render(
+
+<div>{this.setState("name":"rupali)}</div>
+)
+Rupali Naik3:30 PM
+this.state.msg="Hello Frnd";
+const clickBtn=()=>{
+this.setState({msg:"Hello world"});
+console.log(this.state.msg);};
+}
