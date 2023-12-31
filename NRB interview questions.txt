@@ -1,0 +1,89 @@
+NRB Theory Interview Questions
+
+1. What is React and why React is called as React
+2. what are CORS and how do we avoid handle it in our application
+What is the purpose of state in React?
+State in React is used to store and manage component-level data. It allows components to update their internal data and re-render when necessary.
+What is the purpose of props in React?
+Props in React are used to pass data from a parent component to a child component. They are used to make components reusable and configurable.
+3. Explain Hooks in react
+4. Write the syntax for useState Hooks
+5. What is the difference between class and Functional Components?
+6. What are LifeCycle methods and explain them? - ComponentDidMount, componenetDidUpdate and ComponentWillUnmount
+7. what is a State?
+8. which method is mandatory in class Components?
+9. what is HOC?
+10. how the lifecycle methods will run if there is parent and child component , explain the sequence
+11. what are thw optimization techniques in React
+12. what is the difference between package manager and bundler?
+13. what are Outlet in React-router-Dom
+14. what is Optional Chaining 
+15. what is useEffect and useEffectLayout? what is dependency array in useEffect?
+16. "Object are not valid as react child" when do we get this error in React
+17. What is Virtual DOM in React?
+Virtual DOM is an in-memory representation of the actual DOM. React uses the virtual DOM to improve performance by reducing the amount of direct manipulation of the actual DOM.
+
+
+Logical questions
+
+1 .How do you handle form submissions in React?
+
+In React, you can handle form submissions by creating a method that listens for the form's onSubmit event. Within this method, you can access the form data using the event's target property, and then use this data to perform any necessary actions.
+
+2. How do you handle dynamic data in React?
+
+In React, you can handle dynamic data by using state and props. State is used to store and manage component-level data, which can be updated and re-rendered as needed. Props are used to pass data from a parent component to a child component, which can be used to dynamically update the child component's rendered output.
+
+3.How do you handle routing in a React application?
+
+In React, routing can be handled using a library such as React Router. This library provides a way to define routes for your application, and to render different components based on the current URL.
+
+4.How can you optimize the performance of a React application?
+
+There are several ways to optimize the performance of a React application, such as:
+-Using the Virtual DOM to reduce direct manipulation of the actual DOM
+-Avoiding unnecessary re-renders by using shouldComponentUpdate or React.memo
+-Using the React Developer Tools to find and fix performance bottlenecks
+-Splitting your application into smaller, reusable components
+-Using a performance profiler such as the React Profiler
+
+5.How can you pass data from a child component to a parent component in React?
+
+In React, data can be passed from a child component to a parent component by using callback functions. The parent component can pass a callback function as a prop to the child component. The child component can then call this function and pass data as an argument when necessary.
+
+6.How can you use React Hooks to manage state and side-effects in functional components?
+
+React Hooks allows functional components to use state and lifecycle methods similar to class components. Hooks such as useState and useEffect can be used to manage state and side-effects in functional components.
+useState allows functional component to have state and useEffect allows the component to perform side-effects, such as fetching data or subscribing to events.
+
+
+7. what is Context Api which hook can be use for Context API? tell me the scenarios where we can use context API
+
+8.  what is props drilling and lifting of state up
+
+9. what is Redux. explain the Redux cycle or how Redux works?
+
+10. what is Reducers in Redux?
+
+11. what is store ad slice. can u write the code for slice?
+
+12. when to use Redux over context API
+
+13. why we use key in map function in react? can we use Index as a key
+
+14. can u create a useState hook
+
+
+________________________________________________________
+
+
+
+what is reconcilation in react
+
+In the context of React, reconciliation is the process by which React updates the user interface to reflect changes in the application state.
+
+React uses a virtual DOM (a representation of the actual DOM) to efficiently update the UI. When there is a change in the application state, React compares the new virtual DOM with the previous one and determines what changes need to be made to the actual DOM to reflect the new state. This process is called reconciliation.
+
+During reconciliation, React will compare the new virtual DOM tree with the previous virtual DOM tree and will update only the parts of the actual DOM that have changed. This can improve performance and reduce the amount of work that needs to be done when the application state changes.
+
+React uses a diffing algorithm to determine what parts of the DOM have changed and need to be updated. This algorithm is optimized to be fast and efficient, allowing React to update the UI quickly and with minimal overhead.
