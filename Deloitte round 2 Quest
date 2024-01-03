@@ -1,0 +1,24 @@
+Deloitte 2 nd interview questions
+1. What is box model
+2. What is border box
+3. How will you calculate width with padding
+4. Why we write script tag at bottom
+5. What if we write script in head tag
+6. What is event bubbling, how can we prevent it
+7. How to make parallel api calls
+8. What is promise.settle and promise.all
+9. How to catch error in promises or in promise chaining
+10. How to set state in render method
+11. What are error boundaries, what errors can be covered in error boundaries
+12. How to add headers in api call using axios if there are multiple api calls
+13. What is polyfill
+14. How to know that scripts are rendering or working in javascript
+15. How to center a div using flex box
+16. Use call back and use memo
+17. How to make an api call in redux
+18. If we have to objects which is having same key we combine or merge it, which key will be render
+19. Explain call bind and apply what is its use
+20. What is HoC
+21. How can we access prevstate or value in react
+22. If we do not have children in context, what error does it throws
+23. What are CORS
