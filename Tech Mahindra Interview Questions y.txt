@@ -1,0 +1,70 @@
+Tech Mahindra Interview Questions youtube
+
+1. what is hoisting
+2. what is closure 
+3. what is shallow copy and deep copy
+4. Methods to create deep copy (Object.assign)
+5. Prototype inheritance
+6. what is call, apply and bind
+7. for loop example 1,2,3,4,5
+8. Event loop in js
+
+React questions
+
+1. Virtual Dom concept in react
+2. what are controlled and Uncontrolled components
+3. Are you using class components or Functional Components
+4. How to decide what needs to be use Class or Functional components
+5. Is there any performance advantage when we use Class and functional component
+6. what are the hooks that are used and its importance
+7. have you used useReducer, useContext and other hooks
+8. why do we use state management like Redux
+9. what is middleware in redux and why do we use
+10.how to delay the dispatch of action how to achieve that with thunk
+
+__________________________________________________________________________
+
+Find the output:
+
+var myObject = {
+    foo: "bar",
+    func: function() {
+        var self = this;
+        console.log("outer func:  this.foo = " + this.foo);
+        console.log("outer func:  self.foo = " + self.foo);
+        (function() {
+            console.log("inner func:  this.foo = " + this.foo);
+            console.log("inner func:  self.foo = " + self.foo);
+        }());
+    }
+};
+myObject.func();
+_________________________________
+
+
+function greet(name: string, greeting?: string) {
+if (!greeting)
+  greeting = "Hello";
+ 
+console.log(`${greeting}, ${name}`);
+}
+ 
+greet("John", "Hi"); 
+greet("Mary", "Hola"); 
+greet("Jane");
+_________________________
+
+https://microsoftedge.github.io/Demos/json-dummy-data/64KB.json- create a table by using this API
+
+what will be the output of below code
+enum Gender {
+Male,
+Female
+Other
+}
+console.log(Gender.Male);
+console.log(Gender[1]);
+
+
+
+
