@@ -1,0 +1,67 @@
+[12:11 PM] Suman Talukdar (Harman Connected ServicesCorpo)
+1. let arr = [4,3,9,12,15,8] - Display the number divisible by 2 using map
+__________________________________________________________________________
+
+ 2.  let obj = {
+        name: "test",
+        age: 32
+    }
+ 
+    let obj1 = obj
+
+if obj1.name="Rasika"
+what will be the output
+_____________________________________________________________________
+
+
+
+
+
+let obj = {
+  name: 'test',
+  age: 32,
+};
+
+let obj1 = { ...obj };
+
+obj1.name = 'Rasika';
+console.log(obj);
+console.log(obj1);
+_______________________________________________
+
+const arr1 = [
+  { id: 1, name: 'test1' },
+  { id: 2, name: 'test2' },
+  { id: 2, name: 'test3' },
+  { id: 3, name: 'test4' },
+  { id: 4, name: 'test5' },
+  { id: 5, name: 'test6' },
+  { id: 5, name: 'test7' },
+  { id: 6, name: 'test8' },
+];
+
+
+Create a table in react using above array
+Find duplicate ids using filter method
+________________________________________________________________________
+
+
+
+let data = undefined;
+console.log(typeof data);
+
+_______________________________
+
+what is promises and async await, what is the difference, what is the syntax for async await, what can be use for error handling in async await
+useEffect syntax
+what is usecallback
+how to pass data in react
+redux workflow
+dispatch syntax
+middlewares in react
+authentication in react
+what is reponsive website
+what are media queries and synrax for media query
+what is accessibilty
+what hooks you have used
+how to center a table vertically and horizontally
