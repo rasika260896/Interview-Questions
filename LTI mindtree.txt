@@ -1,0 +1,73 @@
+1.what is shallow copy and deep copy
+
+const obj = {
+name: 'Nadeem',
+address: {
+state: 'Bihar',
+city: 'Bhagalpur'
+},
+company: 'LTIMindtree'
+}
+ 
+const obj1 = {...obj}
+obj1.name = "Nadeem Akram"
+obj1.address.state = "Delhi"
+console.log(obj1)
+console.log(obj)
+
+
+2. what are primitive and non-primitive types
+var a = 2;
+var b = a;
+b = 5;
+console.log(a);
+console.log(b); 
+
+
+var a = [1, 2, 3];
+var b = a;
+b[1] = 5;
+console.log(a);
+console.log(b); 
+
+
+3.what is hoisting
+var x = 20 
+const girl = function () {
+   console.log(x)
+  var x = 21
+}
+girl()
+
+
+4. what is the difference between normal function and arrow function
+  const obj = {
+word: 'World',
+greet () {
+  return `Hello ${this.word}`
+},
+farewell: () => {
+return `hello ${this.word}`
+}
+}
+ 
+console.log(obj.greet())
+console.log(obj.farewell())
+
+5. create a function that will find second maxium number without using sort method
+6.what are types of asynchronous opertaions
+7.how to abandoned a promise
+8. we have a code setTimeout and promises which one will execute first
+9.what is generics in typescript
+10.what is batching in react
+11. what are commonly used hooks what are 3 rules of writing hooks
+12.what is shadow DOM and Virtual DOM
+13. what are features in react 18
+14.what is lazy loading, syntax for it
+15. what is isloading in redux toolkit
+16. how authentication is done in react
+17.what is history.push
+18. what is flex=1;
+19.what is position absolute and relative
+20. what are mixins
+21.How to set a bearer token in react
